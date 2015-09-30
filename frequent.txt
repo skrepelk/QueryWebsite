@@ -1,0 +1,1 @@
+[('the', 23), ('Equinox', 20), ('googletag', 15), ('and', 12), ('Solstice', 10), ('of', 10), ('day', 7), ('September', 6), ('Date', 6), ('on', 6), ('fall', 6), ('in', 5), ('Fall', 5), ('cmd', 5), ('Autumnal', 5), ('0', 5), ('Zone', 5), ('Time', 5), ('World', 5), ('Hemisphere', 5)]
